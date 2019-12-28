@@ -1,11 +1,11 @@
 {
-  "name": "BuzzTechy",
-  "short_name": "BuzzTechy",
-  "start_url": "https://buzztechy.blogspot.com/",
+  "name": "GiftCourse",
+  "short_name": "GiftCourse",
+  "start_url": "https://www.giftcourse.me/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "All about Business, Machine Learning, Data Science, BigData,  Analytics, Deep Learning, Artificial Intelligence, Tableau, TensorFlow, Neural Networks",
+  "description": "eduonix, eduonix course, eduonix coupon, eduonix machine learning, data science, artificial intelligence, technology, bitdegree course, udemy.",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s48/icon_kta.png",
     "sizes": "48x48",
